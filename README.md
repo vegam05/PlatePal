@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# PlatePal_CAP
-=======
-# PlatePal
-A repository dedicated to all the developments based on a modern food advisor, PlatePal, the product has a complex CNN model at its core to stand tall on user's expectations and  give customized recommendations at the go!
->>>>>>> origin/cap
+## Context-aware attention pooling model for PlatePal
+This branch primarily deals with the work done for "Context-aware attention pooling" CAP model in order to achieve SOTA accuracy metrics. The original work in this field belongs to respective authors: [Ardhendu Behera](https://github.com/ArdhenduBehera) and [ZWharton15](https://github.com/ZWharton15). The CAP algorithm was initially desgined to perform fine grained image classification on standard datasets as mentioned on the original implementation of this [algorithm](https://github.com/ArdhenduBehera/cap). In order to provide highest possible accurate predictions on various food classes, we utilize this model hereby in our project PlatePal on varioud food classes. The implementation was hence modified by [Kirti Raj](https://github.com/vegam05) in order to provide its more modern implemetation with latest compatibility support for tensorflow, keras and CUDA/cuDNN versions. The model is yet to be actually used for training as we don't currently possess the required computational resources. The metrics can then only be measured.
+
+
