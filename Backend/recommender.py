@@ -14,7 +14,7 @@ USER_PROFILE = {
 }
 
 # API Keys (Replace with your actual keys)
-FOODVISOR_API_KEY = "tmXCM6Hs.Dclgaz4SBVy6IbciIjWnashI8PEPeQwr"
+FOODVISOR_API_KEY = "APIkey"
 # Initialize the pipeline (this should ideally be done outside the function for efficiency)
 text_generation_pipeline = pipeline("text-generation", model="meta-llama/Llama-3.2-1B")
 
