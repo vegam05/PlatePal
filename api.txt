@@ -1,2 +1,2 @@
-FoodVisor: tmXCM6Hs.Dclgaz4SBVy6IbciIjWnashI8PEPeQwr
-Llama: LA-44d280f68a7143239151f8d663c7883c6c009b955e624eea946d484f11b9432d
+FoodVisor: 
+Llama: LA
